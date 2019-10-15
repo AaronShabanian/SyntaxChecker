@@ -19,6 +19,8 @@
   a.  https://www.bogotobogo.com/cplusplus/template_declaration_definition_header_implementation_file.php- used to learn how to make template class.
  
  b. http://users.cis.fiu.edu/~weiss/Deltoid/vcstl/templates - used to learn how to call a template class correctly. 
+ 
+ c. Went to office hours to fix bug of multiplying stack size by 2
 
 5.) Instructions for running the assignment
   1.)Type make in terminal 
